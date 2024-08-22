@@ -27,5 +27,5 @@ jobs:
         context: ./
         file: ./Dockerfile
         push: true
-        tags: beung-github-containerization-docker
+        tags: beung/github-containerization-docker:latest
 
